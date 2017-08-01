@@ -1,0 +1,15 @@
+{
+  "name": "reproduce-conemu-child-process-environment-bug",
+  "version": "1.0.0",
+  "description": "Reproduce a bug in conemu",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
